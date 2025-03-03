@@ -44,9 +44,9 @@ O **ChatApp** é uma API desenvolvida em **Node.js** com **MongoDB** para permit
 
 ### **1. Clone o Repositório**
 ```sh
-git clone https://github.com/seu-usuario/ChatAPI.git
+git clone https://github.com/seu-usuario/ChatApp.git
 cd server
 npm install
-npm run dev
+npm start
 ```
 A API estará rodando em http://localhost:5000.
